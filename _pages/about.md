@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate in Linguistics @ UIUC
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: Portrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
