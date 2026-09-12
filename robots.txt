@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rainn-jiang.github.io/al-folio/sitemap.xml
+Sitemap: https://rainn-jiang.github.io/sitemap.xml
